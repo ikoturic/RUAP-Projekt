@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << " Pozdrav iz aplikacije od Ivana Koturic i broj indeksa 12345365678\n";
+=======
+    std::cout << " Pozdrav iz aplikacije od Ivana Koturic\n";
+>>>>>>> 2a421f8 (Add ConsoleApp1 to branch development)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
